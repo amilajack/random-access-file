@@ -6,7 +6,6 @@
   "scripts": {
     "test": "standard && tape test.js"
   },
-  "browser": "./browser.js",
   "dependencies": {
     "mkdirp-classic": "^0.5.2",
     "random-access-storage": "^1.1.1"
